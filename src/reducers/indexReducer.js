@@ -6,7 +6,7 @@ import {
   MEMORY_PLUS,
   MEMORY_RECALL,
   MEMORY_CLEAR,
-} from "./src/actions/index";
+} from "../actions/index";
 
 export const initialState = {
   total: 0,
